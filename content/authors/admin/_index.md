@@ -25,4 +25,4 @@ superuser: true
 title: Sharla Gelfand
 ---
 
-I am a freelance R and Shiny Developer and statistician. My work specializes in developing tools that enable easier access to data and replacing manual, repetitive work with repeatable, reproducible, and future-proof processes. I'm also an active open-source contributor and community member.
+I am a freelance R and Shiny developer and a statistician. My work specializes in developing tools that enable easier access to data and replacing manual, repetitive work with repeatable, reproducible, and future-proof processes. I'm also an active open-source contributor and community member.

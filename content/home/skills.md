@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Consulting Services"
+title = "Consulting"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Reproducible analyses"
+  name = "Reproducible Analyses"
   description = "Analyzing data and creating beautiful reports with a specific focus on work that can easily be reproduced and reused."  
   
 [[feature]]
