@@ -21,14 +21,14 @@ subtitle = ""
   description = "Development of open-source and organization-specific packages for retrieving, analyzing, and reporting on data."
   
 [[feature]]
-  icon = "file-text"
-  icon_pack = "fab"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Reproducible analyses"
   description = "Analyzing data and creating beautiful reports with a specific focus on work that can easily be reproduced and reused."  
   
 [[feature]]
-  icon = "bar-chart"
-  icon_pack = "fab"
+  icon = "laptop"
+  icon_pack = "fas"
   name = "Shiny Applications"
   description = "Creation of Shiny applications to access, visualize, and explore data."
 
